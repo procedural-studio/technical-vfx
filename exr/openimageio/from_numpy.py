@@ -18,5 +18,5 @@ buf = oiio.ImageBuf(spec)
 buf.set_pixels(oiio.ROI(), pixels)
 
 # Write EXR file
-buf.write("exr/output_numpy.exr")
+buf.write("exr/openimageio/output_numpy.exr")
 print("EXR file created successfully!")

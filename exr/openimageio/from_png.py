@@ -18,4 +18,4 @@ def convert_to_exr(input_path, output_path):
         print("Conversion failed!")
 
 # Usage
-convert_to_exr("exr/input.jpg", "exr/output_png.exr")
+convert_to_exr("exr/openimageio/input.jpg", "exr/openimageio/output_png.exr")
