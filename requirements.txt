@@ -1,1 +1,7 @@
 openimageio
+imageio 
+imageio-ffmpeg
+openexr
+OpenEXR
+Imath
+numpy
