@@ -1,6 +1,10 @@
 openimageio
 imageio 
 imageio-ffmpeg
+imageio[pyav]
+imageio[opencv]
+imageio[freeimage]
+opencv-python
 openexr
 OpenEXR
 Imath
